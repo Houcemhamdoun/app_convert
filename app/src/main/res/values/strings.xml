@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">convert_temp</string>
+    <string name="entrer_temperature">Entrer temperature</string>
+    <string name="celsius_farenhiet">celsius_farenhiet</string>
+    <string name="farenhiet_celsus">farenhiet_celsus</string>
+    <string name="convertir">convertir</string>
+</resources>
